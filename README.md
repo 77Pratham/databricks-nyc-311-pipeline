@@ -42,14 +42,14 @@ The analysis revealed key trends in the 311 complaint data.
 The primary driver of 311 calls is noise, followed closely by parking and traffic-related issues.
 
 <!-- Add your "Complaint Category" chart screenshot here! -->
-![Complaint Categories](your-category-chart-image.png)
+![Complaint Categories](category_complaints.png)
 
 #### **Complaints by Borough**
 
 Brooklyn and Queens emerged as the boroughs with the highest volume of 311 complaints.
 
 <!-- Add your "Complaints by Borough" chart screenshot here! -->
-![Complaints by Borough](your-borough-chart-image.png)
+![Complaints by Borough](borough-complaints-chart.png)
 
 ---
 
